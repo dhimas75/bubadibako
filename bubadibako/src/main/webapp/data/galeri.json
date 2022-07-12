@@ -1,0 +1,40 @@
+{
+    "galeri":[
+        {
+            "kategori": "Pantai",
+            "nama": "Membersihkan Pantai",
+            "gambar": "img/works/thumb/foto5.png",
+            "large":"img/works/large/foto5.png"
+        },
+        {
+            "kategori": "Hutan",
+            "nama": "Membersihkan Hutan",
+            "gambar": "img/works/thumb/foto6.png",
+            "large":"img/works/large/foto6.png"
+        },
+        {
+            "kategori": "Kota",
+            "nama": "Membersihkan Kota",
+            "gambar": "img/works/thumb/foto4.png",
+            "large":"img/works/large/foto4.png"
+        },
+        {
+            "kategori": "Taman",
+            "nama": "Membersihkan Taman",
+            "gambar": "img/works/thumb/foto3.png",
+            "large":"img/works/large/foto3.png"
+        },
+        {
+            "kategori": "Selokan",
+            "nama": "Membersihkan Selokan",
+            "gambar": "img/works/thumb/foto2.png",
+            "large":"img/works/large/foto2.png"
+        },
+        {
+            "kategori": "Sekolah",
+            "nama": "Membersihkan Sekolah",
+            "gambar": "img/works/thumb/foto1.png",
+            "large":"img/works/large/foto1.png"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "kegiatan":[
+        {
+            "kategori": "Pantai",
+            "nama": "Membersihkan Pantai",
+            "gambar": "img/service/foto5.png"
+        },
+        {
+            "kategori": "Hutan",
+            "nama": "Membersihkan Hutan",
+            "gambar": "img/service/foto6.png"
+        },
+        {
+            "kategori": "Kota",
+            "nama": "Membersihkan Kota",
+            "gambar": "img/service/foto4.png"
+        },
+        {
+            "kategori": "Taman",
+            "nama": "Membersihkan Taman",
+            "gambar": "img/service/foto3.png"
+        },
+        {
+            "kategori": "Selokan",
+            "nama": "Membersihkan Selokan",
+            "gambar": "img/service/foto2.png"
+        },
+        {
+            "kategori": "Sekolah",
+            "nama": "Membersihkan Sekolah",
+            "gambar": "img/service/foto1.png"
+        },
+        {
+            "kategori": "Sekolah",
+            "nama": "Membersihkan Pantai Utara",
+            "gambar": "img/service/foto8.png"
+        }
+    ]
+}
